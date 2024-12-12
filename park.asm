@@ -2,7 +2,7 @@
 .STACK 100H
 
 .DATA
-    MENU DB '*************SELECT OPTION*************ooooooooo**$'
+    MENU DB '*************SELECT OPTION***************$'
     MENU_TRUCK DB 'PRESS 1 FOR TRUCK ,WITH COST =250 PER HOUR. $'
     MENU_CAR DB 'PRESS 2 FOR CAR ,WITH COST =150 PER HOUR. $'
     MENU_BUS DB 'PRESS 3 FOR BUS ,WITH COST =200 PER HOUR. $'
